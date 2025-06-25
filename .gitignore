@@ -1,3 +1,4 @@
 db/
 README.Docker.md
 mariadb-data/
+.env
